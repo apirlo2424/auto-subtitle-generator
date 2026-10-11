@@ -10,7 +10,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.serhat.autosub"
+        applicationId "com.serhat.autosub.live"
         minSdk 24
         targetSdk 36
         versionCode 6
